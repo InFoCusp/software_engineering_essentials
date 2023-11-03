@@ -1,8 +1,8 @@
 [
     {
-      "user_id": "ENROLLMENT_ID",
-      "first_name": "User_First_Name",
-      "last_name": "User_Last_Name",
-      "friends": ["FRIEND_1_ENROLLMENT_ID", "FRIEND_2_ENROLLMENT_ID"]
+      "user_id": "21BCM054",
+      "first_name": "Rudra",
+      "last_name": "Shah",
+      "friends": ["21BCM046", "21BCM027","21BCM055"]
     }
   ]
